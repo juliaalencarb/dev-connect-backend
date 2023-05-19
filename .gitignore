@@ -7,3 +7,4 @@ applications/controllers/__pycache__
 applications/controllers/user/__pycache__
 applications/database/__pycache__
 .coverage
+__pycache__/
